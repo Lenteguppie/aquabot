@@ -1,0 +1,10 @@
+{
+  "name": "AquaBot",
+  "version": "1.0.0",
+  "description": "Still in testing stage :D",
+  "main": "bot.js",
+  "author": "Lenteguppie",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
